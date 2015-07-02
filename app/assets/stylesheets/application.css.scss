@@ -16,3 +16,14 @@
 
 @import "bootstrap-sprockets";
 @import "bootstrap";
+@import "font-awesome-sprockets";
+@import "font-awesome";
+
+.jumbotron{
+color: #d40000;
+/*background-color:none !important;*/
+}
+
+.jumbotron{
+	background-color: #000000;
+}
