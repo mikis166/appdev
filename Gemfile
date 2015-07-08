@@ -17,6 +17,7 @@ gem 'sass-rails', '~> 4.0.3'
 gem 'font-awesome-sass','4.3.0'
 gem 'stripe','1.16.1'
 gem 'figaro','1.0.0'
+gem 'paperclip','4.2.1'
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
 # Use CoffeeScript for .coffee assets and views
