@@ -5,6 +5,7 @@ ruby "2.2.1"
 gem 'rails', '4.1.0'
 # Use sqlite3 as the database for Active Record
 group :development, :test do
+  gem "minitest-rails"
   gem 'sqlite3'
 end
 gem 'bootstrap-sass','3.3.1'
